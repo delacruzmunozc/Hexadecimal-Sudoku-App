@@ -19,5 +19,6 @@
     <string name="stringC"> C </string>
     <string name="stringD"> D </string>
     <string name="stringE"> E </string>
+    <string name="underscore">_</string>
     
 </resources>
