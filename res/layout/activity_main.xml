@@ -14,7 +14,7 @@
     tools:context="com.Supermunch.hexadecimalsudoku.MainActivity" >
 
     <Button
-        android:id="@+id/Button0"
+        android:id="@+id/Button10"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -22,10 +22,11 @@
         android:layout_marginTop="16dp"
         android:minHeight="0dp"
         android:minWidth="0dp"
+        android:onClicked="10Clicked"
         android:text="@string/underscore" />
 
     <Button
-        android:id="@+id/Button1"
+        android:id="@+id/Button11"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -33,10 +34,11 @@
         android:layout_marginTop="16dp"
         android:minHeight="0dp"
         android:minWidth="0dp"
+        android:onClicked="11Clicked"
         android:text="@string/underscore" />
 
     <Button
-        android:id="@+id/Button3"
+        android:id="@+id/Button12"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -44,10 +46,11 @@
         android:layout_marginTop="16dp"
         android:minHeight="0dp"
         android:minWidth="0dp"
+        android:onClicked="12Clicked"
         android:text="@string/underscore" />
 
     <Button
-        android:id="@+id/Button2"
+        android:id="@+id/Button02"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -56,6 +59,7 @@
         android:layout_marginTop="-6dp"
         android:minHeight="0dp"
         android:minWidth="0dp"
+        android:onClicked="02Clicked"
         android:text="@string/underscore" />
 
     <TextView
@@ -103,7 +107,7 @@
         android:textAppearance="?android:attr/textAppearanceSmall" />
 
     <Button
-        android:id="@+id/Button01"
+        android:id="@+id/Button20"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -113,10 +117,11 @@
         android:layout_marginTop="38dp"
         android:minHeight="0dp"
         android:minWidth="0dp"
+        android:onClicked="20Clicked"
         android:text="@string/underscore" />
 
     <Button
-        android:id="@+id/Button02"
+        android:id="@+id/Button22"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -126,10 +131,11 @@
         android:layout_marginTop="36dp"
         android:minHeight="0dp"
         android:minWidth="0dp"
+        android:onClicked="22Clicked"
         android:text="@string/underscore" />
 
     <Button
-        android:id="@+id/Button03"
+        android:id="@+id/Button30"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -139,10 +145,11 @@
         android:layout_marginTop="60dp"
         android:minHeight="0dp"
         android:minWidth="0dp"
+        android:onClicked="30Clicked"
         android:text="@string/underscore" />
 
     <Button
-        android:id="@+id/Button04"
+        android:id="@+id/Button32"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -152,6 +159,7 @@
         android:layout_marginTop="60dp"
         android:minHeight="0dp"
         android:minWidth="0dp"
+        android:onClicked="32Clicked"
         android:text="@string/underscore" />
 
     <TextView

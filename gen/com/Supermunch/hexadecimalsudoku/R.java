@@ -26,14 +26,14 @@ public final class R {
         public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
-        public static final int Button0=0x7f080001;
-        public static final int Button01=0x7f080009;
-        public static final int Button02=0x7f08000a;
-        public static final int Button03=0x7f08000b;
-        public static final int Button04=0x7f08000c;
-        public static final int Button1=0x7f080002;
-        public static final int Button2=0x7f080004;
-        public static final int Button3=0x7f080003;
+        public static final int Button02=0x7f080004;
+        public static final int Button10=0x7f080001;
+        public static final int Button11=0x7f080002;
+        public static final int Button12=0x7f080003;
+        public static final int Button20=0x7f080009;
+        public static final int Button22=0x7f08000a;
+        public static final int Button30=0x7f08000b;
+        public static final int Button32=0x7f08000c;
         public static final int TextView01=0x7f080006;
         public static final int TextView02=0x7f080007;
         public static final int TextView03=0x7f080008;
